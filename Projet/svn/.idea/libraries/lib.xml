@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/branches/agdpro/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/branches/agdpro/lib/jstl-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/branches/agdpro/lib/jsf-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/branches/agdpro/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/branches/agdpro/lib/jsf-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

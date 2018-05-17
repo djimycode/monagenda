@@ -1,0 +1,30 @@
+body{
+
+    background-image: url("bg.jpg");
+}
+
+.container {
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    background-color: rgba(52,73,94,0.7);
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.container.message{
+
+    text-decoration-color: white;
+}
+
+
+.container img{
+
+    width:120px ;
+    height: 120px;
+    margin-top: -60px;
+    margin-bottom: 30px;
+
+}
+

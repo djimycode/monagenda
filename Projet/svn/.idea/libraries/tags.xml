@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tags">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/branches/agdpro/web/WEB-INF/tags/jstl-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/branches/agdpro/web/WEB-INF/tags/jstl-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
